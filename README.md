@@ -14,8 +14,3 @@ Features:
 Requirements:
 - Linux OS
 - GCC compiler
-- libudev headers
-
-
-Install dependencies with:
-- Bash: sudo apt install build-essential libudev-dev
