@@ -1,4 +1,4 @@
-# CSE330producerConsumer
+# producerConsumer
 
 ## (Ryan Welzel 6/19/2025)
 
